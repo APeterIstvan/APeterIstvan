@@ -7,7 +7,7 @@
 ### :man_technologist: &nbsp;About Me :
 
 I am an aspiring programmer from Hungary.
-- 🎓 Currently I’m studying as a Business Informatics student.
+- 🎓 Currently I’m studying as a Business Information Technology student.
 - 🌱 I like playing around with different types of projects.
 - ⚡ In my free time I learn new programming languages, read, train and play music.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-peteriabraham-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/peteriabraham)
