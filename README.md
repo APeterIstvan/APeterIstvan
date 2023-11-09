@@ -1,7 +1,7 @@
 <p align="center">
-<a href="https://www.peterabraham.com"><img src="https://github.com/APeterIstvan/apeteristvan.github.io/blob/main/assets/images/PA_icon_bold_color.png" alt="LinkedIn Badge" width="50" height="50"></a>
+<a href="https://www.peterabraham.com"><img src="https://github.com/peterabrahamdev/peterabrahamdev/blob/main/PA_icon_bold_color.png" width="50" height="50"></a>
 <p align="center">
-<a href="https://www.linkedin.com/in/peteriabraham"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/peteriabraham"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 ### :man_technologist: &nbsp;About Me :
