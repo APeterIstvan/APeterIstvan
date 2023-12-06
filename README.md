@@ -6,7 +6,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am an aspiring programmer from Hungary.
+I'm an aspiring programmer from Hungary.
 - 🎓 Currently I’m studying as a Business Information Technology student.
 - 🌱 I like playing around with different types of projects.
 - ⚡ In my free time I learn new programming languages, read, train and play music.
