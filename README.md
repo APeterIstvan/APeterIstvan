@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/peteriabraham"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
-### :man_technologist: &nbsp;About Me :
+### 👨‍💻 &nbsp;About Me :
 
 I'm an aspiring programmer from Hungary.
 - 🎓 Currently I’m studying as a Business Information Technology student.
