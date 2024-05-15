@@ -6,7 +6,7 @@
 
 ### 👨‍💻 &nbsp;About Me :
 
-I'm an aspiring programmer from Hungary.
+I'm an app developer from Hungary.
 - 🎓 I have a bachelor's degree in Business Information Technology.
 - 🌱 I like playing around with different types of projects.
 - ⚡ In my free time I learn new programming languages, read, train and play music.
